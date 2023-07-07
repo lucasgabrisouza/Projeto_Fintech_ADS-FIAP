@@ -1,0 +1,34 @@
+.background {
+  background-color: #ffffff;
+  padding: 20px;
+}
+
+.rectangle-top,
+.rectangle-bottom {
+  background-color: #000000;
+  height: 50px;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.rectangle-center {
+  background-color: #ffffff;
+  padding: 20px;
+  text-align: center;
+}
+
+.title {
+  color: #ffffff;
+  margin-top: 0;
+}
+
+.crypto-assets {
+  color: #000000;
+}
+
+.rectangle-bottom .download-title {
+  color: #ffffff;
+  margin-bottom: 0;
+}
